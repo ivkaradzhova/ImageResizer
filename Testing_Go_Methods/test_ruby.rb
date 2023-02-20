@@ -9,7 +9,6 @@ def raise_and_rescue
     raise 'Exception Created!'
 
 
-    # using Rescue method
   rescue
 
 
